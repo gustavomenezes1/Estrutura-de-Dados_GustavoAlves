@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1653951639 source:c:\users\facom.facom\documents\lab04\main.c
+	<stdio.h>
+	"ponto.h"
+
+1653951687 c:\users\facom.facom\documents\lab04\ponto.h
+
+1653951657 source:c:\users\facom.facom\documents\lab04\ponto.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"ponto.h"
+
