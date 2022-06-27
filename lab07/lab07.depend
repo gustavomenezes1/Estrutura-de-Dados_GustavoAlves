@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1656369443 source:c:\users\facom\documents\lab07\main.c
+	<stdio.h>
+	"lista.h"
+
+1656371205 c:\users\facom\documents\lab07\lista.h
+
+1656371191 source:c:\users\facom\documents\lab07\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
