@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1658791123 source:c:\users\facom.facom\documents\lab_10\fila_desperdicio\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1658791117 c:\users\facom.facom\documents\lab_10\fila_desperdicio\fila.h
+
+1658791111 source:c:\users\facom.facom\documents\lab_10\fila_desperdicio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
