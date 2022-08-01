@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1659394724 source:c:\users\facom.facom\desktop\lab11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1659393948 c:\users\facom.facom\desktop\lab11\fila.h
+
+1659394742 source:c:\users\facom.facom\desktop\lab11\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
