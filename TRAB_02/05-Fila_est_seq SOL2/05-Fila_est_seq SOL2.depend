@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1659916693 source:c:\users\gustavo\desktop\trab_02\05-fila_est_seq sol2\fila_est_seq.c
+	<stdio.h>
+	"fila_est_seq.h"
+
+1659916374 c:\users\gustavo\desktop\trab_02\05-fila_est_seq sol2\fila_est_seq.h
+
+1659916718 source:c:\users\gustavo\desktop\trab_02\05-fila_est_seq sol2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_est_seq.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1659985048 source:c:\users\gustavo\desktop\trab_02\06 - fila_din_enc simples\fila_din_enc.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_din_enc.h"
+
+1659985021 c:\users\gustavo\desktop\trab_02\06 - fila_din_enc simples\fila_din_enc.h
+
+1659985048 source:c:\users\gustavo\desktop\trab_02\06 - fila_din_enc simples\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_din_enc.h"
+
